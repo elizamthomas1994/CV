@@ -9,7 +9,7 @@ Currently, I am studying under a 12 week software development course at Makers A
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Weather Project](https://github.com/elizamthomas1994/weather-react) | An app that allows users to input in any location, and it will use APIs to output a local weather forecast, as well as the local time. | React, JavaScript, Bootstrap, APIs |
-| [Dictionary Project](https://github.com/elizamthomas1994/dictionary-react-project) | A webapp that takes a user-inputted word, and returns a definition of the word, a synonym of the word and a relevant picture of the word. | React, JavaScript, APIs |
+| [Dictionary Project](https://github.com/elizamthomas1994/dictionary-react-project) | A web app that takes a user-inputted word, and returns a definition of the word, a synonym of the word and a relevant picture of the word. | React, JavaScript, APIs |
 
 To view all of my projects, please take a look at [my Github profile](https://github.com/elizamthomas1994)
 
@@ -35,14 +35,14 @@ _Guest Support Advisor_
 
 ## Skills
 
-- Communication - I have 3 years experience communicating with customers and teammembers alike using a variety of methods, and am able to clearly and concisely communicate concepts and other information, as well as build rapport in order to increase productivity.
+- Communication - I have 3 years experience communicating with customers and team members alike using a variety of methods, and am able to clearly and concisely communicate concepts and other information, as well as build rapport in order to increase productivity.
 
 - Adaptability - I am a very fast learner and am quick to adapt to different environments, as demonstrated by my experience working with large teams on an international basis at Merlin, to working in an incredibly small team to Toshiba, to studying abroad in Spain.
 
 ## Education
 
 #### Makers Academy (October 2022 to February 2023)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication with my fellow cohorts.
+- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication with my fellow cohorts.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -70,3 +70,4 @@ _Guest Support Advisor_
 ## Hobbies
 - I really enjoy playing the Electric Guitar and have recorded in the studio with "The Amorettes" and performed live on stage in Dublin with "Black Star Riders".
 - Love learning new languages including Spanish, French, Portuguese, and I have recently started to study Japanese.
+- Travelling! I love immersing myself in new cultures and locations.
