@@ -1,13 +1,17 @@
 ## Eliza Thomas
 
-Extremely ambitious individual with a background in administration and customer service. Looking to kickstart a new career as a Fullstack Junior Software Developer. Dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
+An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Fullstack Junior Software Developer as I absolutely love problem solving and wanted to challenge myself under a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
+
+Currently, I am studying under a 12 week software development course at Makers Academy, to build upon skills that I started building during the pandemic. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| [Weather Project](https://github.com/elizamthomas1994/weather-react) | An app that allows users to input in any location, and it will use APIs to output a local weather forecast, as well as the local time. | React, JavaScript, Bootstrap, APIs |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+
+To view all of my projects, please take a look at [my Github profile](https://github.com/elizamthomas1994)
 
 ## Work Experience
 
