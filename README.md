@@ -1,6 +1,6 @@
-## Your Name
+## Eliza Thomas
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Extremely ambitious individual with a background in administration and customer service. Looking to kickstart a new career as a Fullstack Junior Software Developer. Dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
 
 ## Projects
 
@@ -11,15 +11,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Toshiba Tec UK** (Sep 2021 to Oct 2022)  
+_Billing Administrator_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Was part of a small team responsible for producing invoices for all Toshiba Tec UK clients and ensuring all invoices were paid for within a certain period of time.
+- Regularly exceeded monthly target revenue goals which lead to a direct increase in profits for Toshiba Tec UK.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Merlin Entertainments** (March 2018 to March 2020)  
+_Guest Support Advisor_
 
-- Any experience relevent to software development
+- Handled all incoming telephone, email, live chat and social media requests from Merlin Entertainments customers for all UK locations including Alton Towers Resort, Thorpe Park, the London Eye and others.
+- Was later assigned to oversee Merlin Entertainments locations based in Oceania and North America in recognition of consistently high-quality performance throughout my tenure.
+- Became part of a small team that aided in providing support for "Merlin Annual Pass" users which resulted in an increase in the daily number of resolved requests, and a decrease in workload for the general support team.
 
 ## Skills
 
@@ -36,7 +39,7 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Communication
 
 - Experience
 - Achievements
@@ -53,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2022 to February 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +65,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### SheCodes Coding Bootcamp (November 2020 - March 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### AAT Level 2 (April 2020 - August 2021)
 
-#### Any other qualifications
+#### Swansea University (Sep 2012 to March 2017)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Maths and Spanish
+- Included a year abroad in Spain, studying at la Universidad de Alcalá.
+
+#### Esher College (Sep 2010 to June 2012)
+
+- Achieved A Levels in Maths, Spanish and Economics, plus an AS Level in French
+
+#### St George's College Weybridge (Sep 2005 to June 2010)
+
+- Achieved GCSEs in Maths, Spanish, French, Electronics, English and more.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I really enjoy playing the Electric Guitar and have recorded in the studio with "The Amorettes" and performed live on stage in Dublin with "Black Star Riders".
+- Love learning new languages including Spanish, French, Portuguese, and I have recently started to study Japanese.
