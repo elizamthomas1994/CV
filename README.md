@@ -1,6 +1,6 @@
 ## Eliza Thomas
 
-An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Fullstack Junior Software Developer as I absolutely love problem solving and wanted to challenge myself under a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
+An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Fullstack Junior Software Developer as I absolutely love problem solving and wanted to challenge myself in a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
 
 Currently, I am studying under a 12 week software development course at Makers Academy, to build upon skills that I started building during the pandemic. 
 
@@ -12,6 +12,7 @@ Currently, I am studying under a 12 week software development course at Makers A
 | [Dictionary Project](https://github.com/elizamthomas1994/dictionary-react-project) | A web app that takes a user-inputted word, and returns a definition of the word, a synonym of the word and a relevant picture of the word. | React, JavaScript, APIs |
 
 To view all of my projects, please take a look at [my Github profile](https://github.com/elizamthomas1994)
+If you'd like to read about my software development journey, please take a look at [my blog](https://medium.com/@elizamthomas1994/why-i-decided-to-pursue-becoming-a-software-developer-c82d2420715)
 
 ## Work Experience
 
