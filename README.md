@@ -46,9 +46,9 @@ _Guest Support Advisor_
 #### Makers Academy (October 2022 to February 2023)
 - Frequently used paring in order to problem solve effeciently, requiring teamwork and communication with my fellow cohorts.
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile teamworking
+- Ruby, JavaScript, React, React Native
+- RSpec, Jest
 
 #### SheCodes Coding Bootcamp (November 2020 - March 2021)
 - Familiarized myself with HTML, CSS and JavaScript to start building up front-end development skills.
