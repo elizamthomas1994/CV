@@ -21,8 +21,8 @@ If you'd like to read about my software development journey, please take a look 
 **Toshiba Tec UK** (Sep 2021 to Oct 2022)  
 _Billing Administrator_
 
-- I was part of a small team responsible for producing invoices for all Toshiba Tec UK clients and ensuring these were paid for within the specified period of time.
-- My team regularly exceeded monthly target revenue goals which lead to a direct increase in profits for Toshiba Tec UK.
+- Responsible for producing invoices for all Toshiba Tec UK clients and ensuring these were paid for within the specified period of time.
+- Regularly exceeded monthly target revenue goals which lead to a direct increase in profits for Toshiba Tec UK.
 
 **Merlin Entertainments** (March 2018 to March 2020)  
 _Guest Support Advisor_
@@ -40,7 +40,7 @@ _Guest Support Advisor_
 
 - Communication - I have 3 years experience communicating with customers and team members alike using a variety of methods, and am able to clearly and concisely communicate concepts and other information, as well as build rapport in order to increase productivity.
 
-- Adaptability - I am a very fast learner and am quick to adapt to different environments, as demonstrated by my experience working with large teams on an international basis at Merlin, to working in an incredibly small team to Toshiba, to studying abroad in Spain.
+- Adaptability - I am a very fast learner and am quick to adapt to different environments, as demonstrated by my experience working with large teams on an international basis at Merlin, to working in an incredibly small team to Toshiba, to studying abroad in Spain, through to utilising a variety of different tech stacks within a 16 week software development course at Makers Academy. 
 
 ## Education
 
@@ -53,7 +53,7 @@ _Guest Support Advisor_
 
 #### SheCodes Coding Bootcamp (November 2020 - March 2021)
 - Familiarized myself with HTML, CSS and JavaScript to start building up front-end development skills.
-- Began to build my coding knowledge and used it to create small apps, which is where I began to run into problems, and this allowed me to hone my problemsolving skills.
+- Began to build my coding knowledge and used it to create small apps, which also allowed me to enhance my problem-solving skills.
 - Once I had completed a weather app in basic JavaScript, I recreated the same project in the React framework, which I believe shows my ability to adapt to new technoliges and challenges.
 
 #### AAT Level 2 (April 2020 - August 2021)
