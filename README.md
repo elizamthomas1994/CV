@@ -9,7 +9,7 @@ Recently, I have graduated from a 16 week software development course at Makers 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [GetHomeSafe App](https://github.com/jillwones/GetHomeSafe) | A mobile app that allows users to quickly and easily notify their emergency contacts that they're in danger or that they've made it home safe during a night out. The app will monitor the users current location and send it to their emergency contacts if the SOS button is hit. | React-Native, MongoDB, JSX, Jest, APIs |
-| [Acebook](https://github.com/elizamthomas1994/dictionary-react-project) | A social media app where users can post statuses to their timeline and add each other as friends. Users can also maintain and edit their own profile pages. | MERN Stack, Jest |
+| [Acebook](https://github.com/elizamthomas1994/acebook-team-bonsai) | A social media app where users can post statuses to their timeline and add each other as friends. Users can also maintain and edit their own profile pages. | MERN Stack, Jest |
 | [MakersBnB](https://github.com/haquema/makersbnb-ruby-seed) | An app that allows users to view and book different properties. Users are also able to create and maintain accounts in order to place bookings. | Ruby, RSpec, PostgreSQL, Bootstrap |
 
 To view all of my projects, please take a look at [my Github profile](https://github.com/elizamthomas1994)
