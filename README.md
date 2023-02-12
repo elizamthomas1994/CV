@@ -1,15 +1,16 @@
 ## Eliza Thomas
 
-An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Fullstack Junior Software Developer as I absolutely love problem solving and wanted to challenge myself in a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
+An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Full-Stack Junior Software Developer as I really enjoy problem solving and wanted to challenge myself in a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
 
-Currently, I am studying under a 12 week software development course at Makers Academy, to build upon skills that I started building during the pandemic. 
+Recently, I have graduated from a 16 week software development course at Makers Academy, to improve upon skills that I started building during the pandemic.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Weather Project](https://github.com/elizamthomas1994/weather-react) | An app that allows users to input in any location, and it will use APIs to output a local weather forecast, as well as the local time. | React, JavaScript, Bootstrap, APIs |
-| [Dictionary Project](https://github.com/elizamthomas1994/dictionary-react-project) | A web app that takes a user-inputted word, and returns a definition of the word, a synonym of the word and a relevant picture of the word. | React, JavaScript, APIs |
+| [GetHomeSafe App](https://github.com/jillwones/GetHomeSafe) | A mobile app that allows users to quickly and easily notify their emergency contacts that they're in danger or that they've made it home safe during a night out. The app will monitor the users current location and send it to their emergency contacts if the SOS button is hit. | React-Native, MongoDB, JSX, Jest, APIs |
+| [Acebook](https://github.com/elizamthomas1994/dictionary-react-project) | A social media app where users can post statuses to their timeline and add each other as friends. Users can also maintain and edit their own profile pages. | MERN Stack, Jest |
+| [MakersBnB](https://github.com/haquema/makersbnb-ruby-seed) | An app that allows users to view and book different properties. Users are also able to create and maintain accounts in order to place bookings. | Ruby, RSpec, PostgreSQL, Bootstrap |
 
 To view all of my projects, please take a look at [my Github profile](https://github.com/elizamthomas1994)
 
