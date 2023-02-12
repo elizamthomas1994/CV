@@ -49,7 +49,7 @@ _Guest Support Advisor_
 - OOP, TDD, MVC, DDD
 - Agile teamworking
 - Ruby, JavaScript, React, React Native
-- RSpec, Jest
+- RSpec, Jest, Cypress
 
 #### SheCodes Coding Bootcamp (November 2020 - March 2021)
 - Familiarized myself with HTML, CSS and JavaScript to start building up front-end development skills.
