@@ -38,14 +38,14 @@ _Guest Support Advisor_
 
 ## Skills
 
-- Communication - I have 3 years experience communicating with customers and team members alike using a variety of methods, and am able to clearly and concisely communicate concepts and other information, as well as build rapport in order to increase productivity.
+- Communication - I have 3 years experience communicating with customers and team members alike using a variety of methods, and am able to clearly and concisely communicate concepts and other information, as well as build rapport in order to increase productivity. When working in tech, I use these communication skills to work closely with team members to build clean, readable code, as well as using agile techniques such as pair programming to code as efficiently as possible.
 
 - Adaptability - I am a very fast learner and am quick to adapt to different environments, as demonstrated by my experience working with large teams on an international basis at Merlin, to working in an incredibly small team to Toshiba, to studying abroad in Spain, through to utilising a variety of different tech stacks within a 16 week software development course at Makers Academy. 
 
 ## Education
 
 #### Makers Academy (October 2022 to February 2023)
-- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication with my fellow cohorts.
+- Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication with my fellow cohorts.
 - OOP, TDD, MVC, DDD
 - Agile teamworking
 - Ruby, JavaScript, React, React Native
