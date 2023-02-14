@@ -1,8 +1,8 @@
 ## Eliza Thomas
 
-An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Full-Stack Junior Software Developer as I really enjoy problem solving and wanted to challenge myself in a field I love; technology. I am a dedicated and hard-working team player with a passion to constantly expand on experiences and knowledge.
+An extremely ambitious individual with a background in administration and customer service. I am looking to kickstart a new career as a Full-Stack Junior Software Developer as I really enjoy problem solving and would love to pivot into a fast-moving and ever-evolving industry such as the tech industry. I am a dedicated and hard-working team player with a passion to constantly expand on my own experiences and knowledge.
 
-Recently, I have graduated from a 16 week software development course at Makers Academy, to improve upon skills that I started building during the pandemic.
+Recently, I have graduated from a 16 week software development course at Makers Academy, to improve upon software development skills that I started building in the middle of the pandemic.
 
 ## Projects
 
