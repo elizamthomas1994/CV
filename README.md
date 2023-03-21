@@ -18,6 +18,12 @@ If you'd like to read about my software development journey, please take a look 
 
 ## Work Experience
 
+**Freelance Junior Software Developer** (Feb 2022 to Now)  
+_Junior Software Developer_
+
+- Develop websites for clients on donatecode.com. Currently have helped make an existing website responsive for mobile browsers using Next.js, Tailwind CSS and Docker, and have regularly liaised with the client to ensure they are kept up to date with all iterations of my code.
+- Volunteered to teach software development skills to refugees at CodeYourFuture, where I assist students in understanding concepts in React and JavaScript.
+
 **Toshiba Tec UK** (Sep 2021 to Oct 2022)  
 _Billing Administrator_
 
